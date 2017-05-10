@@ -82,7 +82,16 @@ let stu2 = Student(name: "lmj",age:19,ID: "110")
 let tea = Teacher(name: "why",age: 18)
 
 
-// 
+/*
+ 多态
+ 
+ 多态有三大条件
+ 必须有继承
+ 必须有重写
+ 必须是父类指针指向子类对象
+ 
+ 
+ */
 test(person: p)
 test(person: stu2)
 test(person: tea)
