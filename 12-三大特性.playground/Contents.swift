@@ -1,5 +1,6 @@
 //: Playground - noun: a place where people can play
 
+// 尝试在
 import UIKit
 
 // 继承
@@ -95,21 +96,6 @@ let tea = Teacher(name: "why",age: 18)
 test(person: p)
 test(person: stu2)
 test(person: tea)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ///////////////////////////////////////////////////////////////////////////////////////////////
 
