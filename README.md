@@ -1,5 +1,10 @@
 # studySwift
 
+学习Swift注意事项 ：
+
+1 所浏览的博客，网站知识swift是不是3.0以上的
+
+
 1 Swift值得关注的网站
 
 http://group.jobbole.com/6806/（值得关注的网站）

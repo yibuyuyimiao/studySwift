@@ -1,6 +1,6 @@
 //: Playground - noun: a place where people can play
 
-// 尝试在
+
 import UIKit
 
 // 继承
